@@ -1,0 +1,8 @@
+tkinter
+pyperclip
+cryptographyns
+os
+json
+secrets
+string
+re
