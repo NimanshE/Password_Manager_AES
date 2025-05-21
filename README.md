@@ -6,7 +6,7 @@ A secure and user-friendly password management application built with Python and
 
 This Password Manager application provides a graphical user interface for securely storing, retrieving, and generating strong passwords. It uses advanced encryption techniques to ensure the protection of stored credentials with a master password-based access control system.
 
-![Password Manager Workflow](/output_screenshots/working.png)
+![Password Manager Workflow](/output_screenshots/working_2.png)
 
 ## Features
 
@@ -154,4 +154,4 @@ Provides the user interface:
 ![Adding Password](output_screenshots/img_3.png)
 
 ### Password Generation
-![Password Generation](output_screenshots/working_2.png)
+![Password Generation](output_screenshots/password.png)
