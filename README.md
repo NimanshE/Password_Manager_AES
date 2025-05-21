@@ -145,13 +145,13 @@ Provides the user interface:
 ## Screenshots
 
 ### Landing Page
-![Landing Page](landing_page.png/650x350)
+![Landing Page](output_screenshots/img.png)
 
 ### Main Interface
-![Main Interface](main_interface.png/650x350)
+![Main Interface](output_screenshots/main_interface.png)
 
 ### Password Addition with Strength Meter
-![Adding Password](strength_checker.png/650x350)
+![Adding Password](output_screenshots/strength_checker.png)
 
 ### Password Generation
-![Password Generation](password_generarion.png/650x350)
+![Password Generation](output_screenshots/working2.png)
