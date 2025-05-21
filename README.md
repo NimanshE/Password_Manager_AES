@@ -148,10 +148,10 @@ Provides the user interface:
 ![Landing Page](output_screenshots/img.png)
 
 ### Main Interface
-![Main Interface](output_screenshots/main_interface.png)
+![Main Interface](output_screenshots/img_2.png)
 
 ### Password Addition with Strength Meter
-![Adding Password](output_screenshots/strength_checker.png)
+![Adding Password](output_screenshots/img_3.png)
 
 ### Password Generation
-![Password Generation](output_screenshots/working2.png)
+![Password Generation](output_screenshots/working_2.png)
